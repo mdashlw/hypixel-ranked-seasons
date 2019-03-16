@@ -1,4 +1,4 @@
-# [WIP] Hypixel Ranked Leaderboards
+# Hypixel Ranked Leaderboards
 
 All Hypixel Ranked Leaderboards.
 Seasons **1-33** (inclusive)
