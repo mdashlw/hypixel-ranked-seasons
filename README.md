@@ -19,7 +19,7 @@ All Hypixel Ranked seasons in the following JSON schema:
 }
 ```
 
-Leaderboards - **1-33**
+Leaderboards - **1-35**
 
 ## Contributing
 

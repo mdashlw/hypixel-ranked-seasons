@@ -2667,11 +2667,221 @@
   },
   {
     "number": 34,
-    "hiddenInAPI": false
+    "hiddenInAPI": false,
+    "leaderboard": [{
+        "uuid": "aceb59ef47ed4857a3895482a24a0b2d",
+        "name": "minecch",
+        "ranked": {
+          "rating": 5815,
+          "position": 1
+        }
+      },
+      {
+        "uuid": "5c0f1c6f18fe41e2adc4f5b78d16ae04",
+        "name": "s1mpleGeek",
+        "ranked": {
+          "rating": 5794,
+          "position": 3
+        }
+      },
+      {
+        "uuid": "9e5d8cb07f9a4a2b9a3d4cbd9d4f3179",
+        "name": "GlebaGleb",
+        "ranked": {
+          "rating": 5021,
+          "position": 4
+        }
+      },
+      {
+        "uuid": "8cb5e749d0ea41409f643bd5a6185107",
+        "name": "gybkabob",
+        "ranked": {
+          "rating": 5005,
+          "position": 5
+        }
+      },
+      {
+        "uuid": "5f5d0e5fafc14f9398abfff3cfa07022",
+        "name": "Fortany",
+        "ranked": {
+          "rating": 5000,
+          "position": 6
+        }
+      },
+      {
+        "uuid": "3e2be750a5ff460db63d36a60b764c89",
+        "name": "P0LAND",
+        "ranked": {
+          "rating": 4995,
+          "position": 7
+        }
+      },
+      {
+        "uuid": "1469871dd9c940dba7e847f4262b7324",
+        "name": "BaylowPvP",
+        "ranked": {
+          "rating": 4607,
+          "position": 8
+        }
+      },
+      {
+        "uuid": "ad794d09b1c8485b925d2bf8b1be7b45",
+        "name": "Telephaty",
+        "ranked": {
+          "rating": 4533,
+          "position": 9
+        }
+      },
+      {
+        "uuid": "1401f4e248ab4ec3b9e7b7cd45bbbd97",
+        "name": "Vioc",
+        "ranked": {
+          "rating": 4455,
+          "position": 10
+        }
+      },
+      {
+        "uuid": "f65fa9b3cca044f1b90dbbb9f3fb9d39",
+        "name": "LORF_0",
+        "ranked": {
+          "rating": 4417,
+          "position": 10
+        }
+      },
+      {
+        "uuid": "cb41aac16fa34a7992ee0af64c457969",
+        "name": "FreeTesh",
+        "ranked": {
+          "rating": 4233,
+          "position": 10
+        }
+      },
+      {
+        "uuid": "772edd0ced12401995be8e513153afd1",
+        "name": "Heart5",
+        "ranked": {
+          "rating": 4084,
+          "position": 10
+        }
+      }
+    ]
   },
   {
     "number": 35,
-    "hiddenInAPI": false
+    "hiddenInAPI": false,
+    "leaderboard": [{
+        "uuid": "8f6b2e404ee34703ba4de4f325847f74",
+        "name": "Karmaly",
+        "ranked": {
+          "rating": 4001,
+          "position": 1
+        }
+      },
+      {
+        "uuid": "bd09e553ab264c6e936b22e9e04eccf6",
+        "name": "Rapidly",
+        "ranked": {
+          "rating": 3831,
+          "position": 2
+        }
+      },
+      {
+        "uuid": "562a0b49679e47cda0c6099b88f4edc5",
+        "name": "adorableloli",
+        "ranked": {
+          "rating": 3820,
+          "position": 3
+        }
+      },
+      {
+        "uuid": "1469871dd9c940dba7e847f4262b7324",
+        "name": "BaylowPvP",
+        "ranked": {
+          "rating": 3631,
+          "position": 4
+        }
+      },
+      {
+        "uuid": "dafd1c3abc49470083ee339ae1512537",
+        "name": "BadLionClientV2",
+        "ranked": {
+          "rating": 3621,
+          "position": 4
+        }
+      },
+      {
+        "uuid": "df04633bac7d44e49ee66ecb596d6ba6",
+        "name": "Abolitionism",
+        "ranked": {
+          "rating": 3610,
+          "position": 6
+        }
+      },
+      {
+        "uuid": "75a0ee275b084c6c840069f0e964e979",
+        "name": "sladkaya",
+        "ranked": {
+          "rating": 3607,
+          "position": 7
+        }
+      },
+      {
+        "uuid": "2bad02a5a5b74207bbb26725e0644ab2",
+        "name": "prata",
+        "ranked": {
+          "rating": 3607,
+          "position": 8
+        }
+      },
+      {
+        "uuid": "9aa9e586e0cb40f7aeee95c6894cbbc6",
+        "name": "Childish",
+        "ranked": {
+          "rating": 3561,
+          "position": 8
+        }
+      },
+      {
+        "uuid": "8518fcb9965749e68b350e92f92525ea",
+        "name": "nurdboi",
+        "ranked": {
+          "rating": 3550,
+          "position": 10
+        }
+      },
+      {
+        "uuid": "c7dea8a87f2b4a8aba976c3ba3173ae2",
+        "name": "nejii",
+        "ranked": {
+          "rating": 3530,
+          "position": 10
+        }
+      },
+      {
+        "uuid": "cb1b4eb977e4474282238855e3a40c7e",
+        "name": "c4c",
+        "ranked": {
+          "rating": 3541,
+          "position": 10
+        }
+      },
+      {
+        "uuid": "1e74fb3734da4333a047df52b0ed9e8f",
+        "name": "3s",
+        "ranked": {
+          "rating": 3519,
+          "position": 10
+        }
+      },
+      {
+        "uuid": "11da6c9822f64e88b289ff15fd433091",
+        "name": "qHearts",
+        "ranked": {
+          "rating": 3513,
+          "position": 10
+        }
+      }
+    ]
   },
   {
     "number": 36,
