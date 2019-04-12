@@ -1,13 +1,31 @@
-# Hypixel Ranked Leaderboards
+# Hypixel Ranked Seasons
 
-All Hypixel Ranked Leaderboards.
-Seasons **1-33** (inclusive)
+All Hypixel Ranked seasons in the following JSON schema:
+
+```js
+{
+  "number": 1, // Season number, 1-indexed
+  "isHiddenInAPI": false, // Indicates whether the season is visible in Hypixel API or not
+  "leaderboard": [ // Stored leaderboard of the season
+    {
+      "uuid": "...", // Player UUID
+      "name": "...", // Player name
+      "ranked": { // Ranked object
+        "rating": 123, // Rating
+        "position": 1 // Position
+      }
+    }
+  ]
+}
+```
+
+Leaderboards - **1-33**
 
 ## Contributing
 
-You are free to contribute in any way if you know some season leaderboard.
+You are free to contribute in any way.
 
-##### Incomplete Seasons
+##### Incomplete Seasons Leaderboards
 
 * Season **4**: missing ratings for #2-10
 * Season **8**: missing #7
@@ -19,4 +37,4 @@ You are free to contribute in any way if you know some season leaderboard.
 
 ## License
 
-—
+No.
