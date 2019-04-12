@@ -2422,6 +2422,22 @@
         }
       },
       {
+        "uuid": "70630e985db84ae7bba11922259150bf",
+        "name": "Yourtuber",
+        "ranked": {
+          "rating": 6200,
+          "position": 2
+        }
+      },
+      {
+        "uuid": "a9fec31cfb8b4e4780dcce8c36ec861c",
+        "name": "iLyffka",
+        "ranked": {
+          "rating": 4420,
+          "position": 3
+        }
+      },
+      {
         "uuid": "d4ac72a59d0a4ced8e801ab775506eba",
         "name": "oZypex",
         "ranked": {
