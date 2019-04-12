@@ -2885,7 +2885,96 @@
   },
   {
     "number": 36,
-    "hiddenInAPI": false
+    "hiddenInAPI": false,
+    "leaderboard": [{
+        "uuid": "1c08e2d0db1f4ff595bd51aa405ade7b",
+        "name": "Japanese",
+        "ranked": {
+          "rating": 3577,
+          "position": 1
+        }
+      },
+      {
+        "uuid": "ce5fcb49d19647f0b86ff9783fa69405",
+        "name": "ellikahO_O",
+        "ranked": {
+          "rating": 3546,
+          "position": 2
+        }
+      },
+      {
+        "uuid": "86a300c32c2846029cd33a141ce30850",
+        "name": "FastGain",
+        "ranked": {
+          "rating": 3540,
+          "position": 3
+        }
+      },
+      {
+        "uuid": "f8c6fdab7e1044ce8af4844c32e5afc2",
+        "name": "FinalSmashUwU",
+        "ranked": {
+          "rating": 3531,
+          "position": 4
+        }
+      },
+      {
+        "uuid": "72437ae9ec844d5487cbb8af47183581",
+        "name": "Leuo",
+        "ranked": {
+          "rating": 3525,
+          "position": 5
+        }
+      },
+      {
+        "uuid": "d4dff36665e34b2484ccc18076906bf6",
+        "name": "Boyzed",
+        "ranked": {
+          "rating": 3510,
+          "position": 6
+        }
+      },
+      {
+        "uuid": "e9f2381ec2064dd8a84abcba9220307b",
+        "name": "Faish",
+        "ranked": {
+          "rating": 3507,
+          "position": 7
+        }
+      },
+      {
+        "uuid": "182c7a12055b4be9b43f9f86c95ed398",
+        "name": "ZypexPVP",
+        "ranked": {
+          "rating": 3501,
+          "position": 8
+        }
+      },
+      {
+        "uuid": "926c63ee86834306939bb26014f60d79",
+        "name": "daddyswooft",
+        "ranked": {
+          "rating": 3497,
+          "position": 9
+        }
+      },
+      {
+        "uuid": "098d263b52964ef8a2e54e4d2dbdb769",
+        "name": "Doggier",
+        "ranked": {
+          "rating": 3496,
+          "position": 10
+        }
+      },
+      {
+        "uuid": "c64f6e647e0d422da5b2b2b3e700e36a",
+        "name": "CreimesPvP",
+        "ranked": {
+          "rating": 3417,
+          "position": 10
+        }
+      }
+    ]
   },
   {
     "number": 37,
