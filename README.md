@@ -5,7 +5,7 @@ All Hypixel Ranked seasons in the following JSON schema:
 ```js
 {
   "number": 1, // Season number, 1-indexed
-  "isHiddenInAPI": false, // Indicates whether the season is visible in Hypixel API or not
+  "hiddenInAPI": false, // Indicates whether the season is visible in Hypixel API or not
   "leaderboard": [ // Stored leaderboard of the season
     {
       "uuid": "...", // Player UUID
