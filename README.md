@@ -30,7 +30,7 @@ You are free to contribute in any way.
 * Season **4**: missing ratings for #2-10
 * Season **8**: missing #7
 * Season **11**: missing #1-4
-* Season **15**: missing rating for #1; missing #2-10
+* Season **15**: completely unknown
 * Season **34**: missing #2
 * Season **35**: missing #5; missing #9
 
