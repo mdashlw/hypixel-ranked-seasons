@@ -33,7 +33,7 @@ You are free to contribute in any way.
 * Season **9**: missing #10
 * Season **11**: missing #1-4
 * Season **15**: completely unknown
-* Season **34**: missing #2
+* Season **34**: missing rating for #2
 * Season **35**: missing #5; missing #9
 
 ## License
