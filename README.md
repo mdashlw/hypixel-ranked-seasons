@@ -27,7 +27,7 @@ You are free to contribute in any way.
 
 ##### Incomplete Seasons Leaderboards
 
-* Season **4**: missing ratings #2-9; missing #10
+* Season **4**: missing ratings for #2-9; missing #10
 * Season **6**: completely unknown
 * Season **8**: missing #7
 * Season **9**: missing #10
