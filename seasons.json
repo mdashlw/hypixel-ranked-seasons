@@ -1047,16 +1047,40 @@
     "number": 15,
     "hiddenInAPI": true,
     "leaderboard": [{
-        "uuid": "1bd1944080bd42e1811969c923ab3d2a",
-        "name": "seanlol",
+        "uuid": "a336071cf30d44a8aa9c0e3e681a6678",
+        "name": "ItsNice",
         "ranked": {
-          "rating": 0,
-          "position": 0
+          "rating": 3393,
+          "position": 1
         }
       },
       {
-        "uuid": "a336071cf30d44a8aa9c0e3e681a6678",
-        "name": "ItsNice",
+        "uuid": "9aa9e586e0cb40f7aeee95c6894cbbc6",
+        "name": "Childish",
+        "ranked": {
+          "rating": 0,
+          "position": 2
+        }
+      },
+      {
+        "uuid": "4ce231a79af8473faf1dab7ecf4de2ad",
+        "name": "Palikka",
+        "ranked": {
+          "rating": 3322,
+          "position": 3
+        }
+      },
+      {
+        "uuid": "b6372697f58c49d69587dbd150ecfc86",
+        "name": "1creeperman72",
+        "ranked": {
+          "rating": 0,
+          "position": 6
+        }
+      },
+      {
+        "uuid": "1bd1944080bd42e1811969c923ab3d2a",
+        "name": "seanlol",
         "ranked": {
           "rating": 0,
           "position": 0
