@@ -1,4 +1,8 @@
-# Hypixel Ranked Seasons
+# Hypixel Ranked Seasons (MIGRATED)
+
+## Migration
+
+Project has been migrated to **[GitLab](https://gitlab.com/mdashlw/hypixel-ranked-seasons)**.
 
 All Hypixel Ranked seasons in the following JSON schema:
 
